@@ -68,7 +68,7 @@ System: Python3.8
             <a href="https://github.com/KrishCoder2797"><p align="center"> Krushna Gajare </p></a>
         </td>
         
-        </tr>
+        
     
 </table>
 
