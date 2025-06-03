@@ -34,7 +34,7 @@ Summarizing transcripts of such videos automatically allows us to quickly look o
 
 System: Python3.8
 
-1. ```git clone https://github.com/somanyadav/Youtube-Summariser.git```
+1. ```git clone https://github.com/KrishCoder2797/Automated-Transcript-Summarizer```
 2. ```cd Youtube-Summariser```
 3. ```pip install -r requirements.txt```
 4. ```pip install streamlit>=1.8.1```
